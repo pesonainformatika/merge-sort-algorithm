@@ -1,3 +1,3 @@
 ### Merge Sort Menggunakan Python
 
-link blog: 
+link blog: https://pesonainformatika.com/programming/apa-itu-merge-sort-dan-cara-penyelesaianya/
